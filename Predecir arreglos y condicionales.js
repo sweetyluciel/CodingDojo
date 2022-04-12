@@ -15,7 +15,7 @@ function muestraListaDeCompras() {
 }
 // Variable         Datos
 //  produce  = ["manzanas", "naranjas"] 
-//  frozen   = ["brócoli", "helado"]
+//  frozen   = ["brócoli", "helado"] -> ["brócoli", "helado", "croqueta de papa"]
 
 var movieLibrary = ["Bambi", "E.T.", "Toy Story"];
 movieLibrary.push("Zoro");
